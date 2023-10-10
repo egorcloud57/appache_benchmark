@@ -1,0 +1,178 @@
+top - 15:42:35 up  3:58,  1 user,  load average: 0,25, 0,38, 0,59
+Tasks: 300 total,   2 running, 247 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 10,2 us,  5,0 sy,  0,1 ni, 82,4 id,  0,7 wa,  0,0 hi,  1,5 si,  0,0 st
+КиБ Mem :  8126908 total,  1373136 free,  3665584 used,  3088188 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4080992 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  906104  85928  29340 R 131,2  1,1   2:43.87 node
+ 5295 egor      20   0  810912  46176  29472 S   6,2  0,6   0:46.20 gnome-terminal-
+26376 root      20   0       0      0      0 I   6,2  0,0   0:37.58 kworker/u8:2-ev
+26968 egor      20   0   34100   5608   4924 S   6,2  0,1   0:00.30 ab
+
+top - 15:42:38 up  3:58,  1 user,  load average: 0,39, 0,40, 0,59
+Tasks: 300 total,   1 running, 248 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 30,2 us, 10,9 sy,  0,0 ni, 58,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+КиБ Mem :  8126908 total,  1370340 free,  3668232 used,  3088336 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4078200 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  905560  86832  29340 S 129,8  1,1   2:47.79 node
+26376 root      20   0       0      0      0 I  25,8  0,0   0:38.36 kworker/u8:2-ev
+ 4595 egor      20   0 4033356 250284  83300 S   7,3  3,1  10:16.91 gnome-shell
+26968 egor      20   0   34100   5608   4924 S   6,3  0,1   0:00.49 ab
+ 4378 egor      20   0  542876 107696  65760 S   3,6  1,3  13:43.40 Xorg
+26688 egor      20   0 1098080 212764  82608 S   3,0  2,6   0:29.73 code
+22220 egor      20   0  617064 106116  83680 S   2,0  1,3   1:37.57 code
+22190 egor      20   0 1276472 136348  94044 S   1,3  1,7   2:12.17 code
+ 5295 egor      20   0  810912  46176  29472 S   0,7  0,6   0:46.22 gnome-terminal-
+    1 root      20   0  225640   9412   6744 S   0,3  0,1   0:27.54 systemd
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.46 rcu_sched
+25540 egor      20   0 1098724 196864 132036 S   0,3  2,4   0:26.80 yandex_browser
+26708 egor      20   0  710160 136808  48756 S   0,3  1,7   0:02.29 code
+26969 egor      20   0   51372   4048   3436 R   0,3  0,0   0:00.02 top
+
+top - 15:42:41 up  3:59,  1 user,  load average: 0,39, 0,40, 0,59
+Tasks: 300 total,   1 running, 249 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 30,9 us,  8,4 sy,  0,0 ni, 60,0 id,  0,2 wa,  0,0 hi,  0,6 si,  0,0 st
+КиБ Mem :  8126908 total,  1367032 free,  3671392 used,  3088484 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4074900 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  905720  86356  29340 S 128,3  1,1   2:51.64 node
+26376 root      20   0       0      0      0 D  17,7  0,0   0:38.89 kworker/u8:2+ev
+ 4595 egor      20   0 4033356 250544  83300 S  12,0  3,1  10:17.27 gnome-shell
+26968 egor      20   0   34100   5608   4924 S   6,3  0,1   0:00.68 ab
+ 4378 egor      20   0  542876 107696  65760 S   4,3  1,3  13:43.53 Xorg
+26688 egor      20   0 1098080 213772  82788 S   2,7  2,6   0:29.81 code
+22190 egor      20   0 1276472 136348  94044 S   1,7  1,7   2:12.22 code
+22220 egor      20   0  617192 106256  83820 S   1,7  1,3   1:37.62 code
+    1 root      20   0  225640   9412   6744 S   0,7  0,1   0:27.56 systemd
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.47 rcu_sched
+ 4575 egor      20   0   49924   4304   3796 S   0,3  0,1   0:00.46 dbus-daemon
+ 5295 egor      20   0  810912  46176  29472 S   0,3  0,6   0:46.23 gnome-terminal-
+
+top - 15:42:44 up  3:59,  1 user,  load average: 0,44, 0,41, 0,60
+Tasks: 300 total,   2 running, 247 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 29,9 us,  7,8 sy,  0,0 ni, 61,9 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+КиБ Mem :  8126908 total,  1371592 free,  3666956 used,  3088360 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4079452 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  905980  87040  29340 R 129,9  1,1   2:55.55 node
+26376 root      20   0       0      0      0 I  15,0  0,0   0:39.34 kworker/u8:2-ev
+ 4595 egor      20   0 4033356 250448  83300 S   8,3  3,1  10:17.52 gnome-shell
+26968 egor      20   0   34100   5868   4924 S   6,3  0,1   0:00.87 ab
+26688 egor      20   0 1098080 206816  82740 S   3,3  2,5   0:29.91 code
+ 4378 egor      20   0  542876 107696  65760 S   2,7  1,3  13:43.61 Xorg
+22220 egor      20   0  617064 106144  83708 S   2,0  1,3   1:37.68 code
+22190 egor      20   0 1276472 136348  94044 S   1,0  1,7   2:12.25 code
+    1 root      20   0  225640   9412   6744 S   0,3  0,1   0:27.57 systemd
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.48 rcu_sched
+ 5295 egor      20   0  810912  46176  29472 S   0,3  0,6   0:46.24 gnome-terminal-
+26958 root      20   0       0      0      0 I   0,3  0,0   0:00.01 kworker/1:3-mm_
+26969 egor      20   0   51372   4048   3436 R   0,3  0,0   0:00.03 top
+
+top - 15:42:47 up  3:59,  1 user,  load average: 0,48, 0,42, 0,60
+Tasks: 300 total,   2 running, 247 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 27,9 us,  9,6 sy,  0,0 ni, 61,7 id,  0,1 wa,  0,0 hi,  0,7 si,  0,0 st
+КиБ Mem :  8126908 total,  1368656 free,  3669868 used,  3088384 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4076528 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  906232  87396  29340 R 130,9  1,1   2:59.49 node
+26376 root      20   0       0      0      0 I  17,3  0,0   0:39.86 kworker/u8:2-ev
+26968 egor      20   0   34100   5868   4924 S   6,3  0,1   0:01.06 ab
+26688 egor      20   0 1098080 206784  82980 S   2,7  2,5   0:29.99 code
+ 4378 egor      20   0  542876 107696  65760 S   2,3  1,3  13:43.68 Xorg
+ 4595 egor      20   0 4033356 250460  83300 S   2,3  3,1  10:17.59 gnome-shell
+22190 egor      20   0 1276472 136348  94044 S   1,7  1,7   2:12.30 code
+22220 egor      20   0  617064 106156  83720 S   1,7  1,3   1:37.73 code
+ 5295 egor      20   0  810912  46176  29472 S   0,7  0,6   0:46.26 gnome-terminal-
+    1 root      20   0  225640   9412   6744 S   0,3  0,1   0:27.58 systemd
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.49 rcu_sched
+22388 egor      20   0  765792 101688  66976 S   0,3  1,3   0:06.01 code
+
+top - 15:42:50 up  3:59,  1 user,  load average: 0,48, 0,42, 0,60
+Tasks: 300 total,   2 running, 247 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 28,0 us,  7,3 sy,  0,0 ni, 64,1 id,  0,2 wa,  0,0 hi,  0,5 si,  0,0 st
+КиБ Mem :  8126908 total,  1369504 free,  3669008 used,  3088396 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4077376 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  906264  87020  29340 R 132,6  1,1   3:03.48 node
+26376 root      20   0       0      0      0 I  12,3  0,0   0:40.23 kworker/u8:2-ev
+26968 egor      20   0   34100   5868   4924 S   6,6  0,1   0:01.26 ab
+26688 egor      20   0 1098592 205204  83000 S   3,0  2,5   0:30.08 code
+ 4595 egor      20   0 4033356 250460  83300 S   2,0  3,1  10:17.65 gnome-shell
+22220 egor      20   0  617064 106168  83732 S   2,0  1,3   1:37.79 code
+22190 egor      20   0 1276472 136348  94044 S   1,3  1,7   2:12.34 code
+ 4378 egor      20   0  542876 107696  65760 S   1,0  1,3  13:43.71 Xorg
+26969 egor      20   0   51372   4048   3436 R   0,7  0,0   0:00.05 top
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.50 rcu_sched
+24200 egor      20   0 2650564 141240 108276 S   0,3  1,7   0:02.71 Web Content
+25714 egor      20   0  841464 170280 101524 S   0,3  2,1   0:30.39 yandex_browser
+
+top - 15:42:53 up  3:59,  1 user,  load average: 0,85, 0,50, 0,62
+Tasks: 300 total,   1 running, 248 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 27,6 us,  7,5 sy,  0,0 ni, 64,5 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+КиБ Mem :  8126908 total,  1367152 free,  3671344 used,  3088412 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4075032 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  906300  87496  29340 S 131,9  1,1   3:07.45 node
+26376 root      20   0       0      0      0 I  12,0  0,0   0:40.59 kworker/u8:2-ev
+26968 egor      20   0   34100   5868   4924 S   6,3  0,1   0:01.45 ab
+26688 egor      20   0 1098592 205596  82724 S   2,7  2,5   0:30.16 code
+ 4595 egor      20   0 4033356 249788  83300 S   2,0  3,1  10:17.71 gnome-shell
+22220 egor      20   0  617064 106176  83740 S   2,0  1,3   1:37.85 code
+22190 egor      20   0 1276472 136348  94044 S   1,3  1,7   2:12.38 code
+ 4378 egor      20   0  542876 107696  65760 S   1,0  1,3  13:43.74 Xorg
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.51 rcu_sched
+ 5295 egor      20   0  810912  46176  29472 S   0,3  0,6   0:46.27 gnome-terminal-
+25714 egor      20   0  841464 170280 101524 S   0,3  2,1   0:30.40 yandex_browser
+26708 egor      20   0  710160 136944  48756 S   0,3  1,7   0:02.30 code
+26723 egor      20   0  600580  66988  44840 S   0,3  0,8   0:00.25 code
+26969 egor      20   0   51372   4048   3436 R   0,3  0,0   0:00.06 top
+
+top - 15:42:56 up  3:59,  1 user,  load average: 0,85, 0,50, 0,62
+Tasks: 300 total,   1 running, 248 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 27,5 us,  8,1 sy,  0,0 ni, 63,6 id,  0,1 wa,  0,0 hi,  0,7 si,  0,0 st
+КиБ Mem :  8126908 total,  1367852 free,  3670620 used,  3088436 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4075744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  906300  87124  29340 S 129,9  1,1   3:11.36 node
+26376 root      20   0       0      0      0 I  14,0  0,0   0:41.01 kworker/u8:2-ev
+26968 egor      20   0   34100   6132   4924 S   6,6  0,1   0:01.65 ab
+26688 egor      20   0 1098592 205188  82968 S   2,7  2,5   0:30.24 code
+ 4595 egor      20   0 4033356 249788  83300 S   2,0  3,1  10:17.77 gnome-shell
+ 4378 egor      20   0  542876 107696  65760 S   1,7  1,3  13:43.79 Xorg
+22220 egor      20   0  617064 106188  83752 S   1,7  1,3   1:37.90 code
+22190 egor      20   0 1276472 136348  94044 S   1,3  1,7   2:12.42 code
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.52 rcu_sched
+22235 egor      20   0  955012 207160  83260 S   0,3  2,5   4:58.21 code
+
+top - 15:42:59 up  3:59,  1 user,  load average: 1,10, 0,56, 0,64
+Tasks: 300 total,   1 running, 248 sleeping,   1 stopped,   0 zombie
+%Cpu(s): 27,7 us,  8,3 sy,  0,0 ni, 63,4 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+КиБ Mem :  8126908 total,  1362904 free,  3675628 used,  3088376 buff/cache
+КиБ Swap:  2097148 total,  2097148 free,        0 used.  4070804 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+24558 egor      20   0  906296  87632  29340 S 129,9  1,1   3:15.27 node
+26376 root      20   0       0      0      0 I  12,0  0,0   0:41.37 kworker/u8:2-ev
+26968 egor      20   0   34100   6132   4924 S   6,6  0,1   0:01.85 ab
+24138 egor      20   0 3101228 266716 142392 S   3,3  3,3   0:16.46 firefox
+26688 egor      20   0 1098592 205996  82920 S   2,7  2,5   0:30.32 code
+22220 egor      20   0  616984 106120  83684 S   2,0  1,3   1:37.96 code
+ 4595 egor      20   0 4033356 249788  83300 S   1,7  3,1  10:17.82 gnome-shell
+22190 egor      20   0 1276472 136348  94044 S   1,3  1,7   2:12.46 code
+ 4378 egor      20   0  542876 107696  65760 S   1,0  1,3  13:43.82 Xorg
+24200 egor      20   0 2650564 142768 108276 S   0,7  1,8   0:02.73 Web Content
+26969 egor      20   0   51372   4048   3436 R   0,7  0,0   0:00.08 top
+   10 root      20   0       0      0      0 I   0,3  0,0   0:17.53 rcu_sched
+ 1068 root      20   0  110476   3416   3096 S   0,3  0,0   0:00.79 irqbalance
+ 1966 root      20   0 1347708  87444  47532 S   0,3  1,1   0:07.76 dockerd
+ 5295 egor      20   0  810912  46176  29472 S   0,3  0,6   0:46.28 gnome-terminal-
+
